@@ -1,2 +1,5 @@
-# Retirement-Pension-Product-Recommendation-System
-Retirement Pension Product Recommendation System
+Python 코드는 데이터 크롤링부터 수익률 분석, 그리고 최종 개인맞춤 리포트 생성에 이르는 전 과정이 포함되어 있습니다. 
+이해를 돕기 위해 진행 순서별로 폴더를 구조화하였으며, 실행 방법은 각 폴더 내 README 파일에 상세히 기재해 두었으니 확인 부탁드립니다. 
+
+전달드리는 코드는 기존에 육안으로 교차 검증하던 작업(예: 배당금 적용 시 ISIN 코드 매칭 등)을 최대한 자동화하여 구현하였습니다. 
+이에 따라 이전에 공유드렸던 수기 검증 기반의 최종 결과물과는 자동화 로직의 특성상 정밀도가 다소 상이할 수 있는 점 참고 부탁드립니다.
