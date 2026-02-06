@@ -1,0 +1,2900 @@
+{
+  "102970": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "105190": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "114260": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "114820": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "130730": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "133690": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "069500": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "069660": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "091160": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "091170": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "091180": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "091230": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "102110": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "102780": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "138520": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "139230": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "139260": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "136340": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "143860": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "바이오헬스케어",
+    "isTDF": false
+  },
+  "148020": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "148070": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "152100": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "153130": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "157450": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "157490": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "161510": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "168580": {
+    "region": "중국",
+    "type": "주식",
+    "theme": "지수추종_지역특화",
+    "isTDF": false
+  },
+  "182480": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "190620": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "192090": {
+    "region": "중국",
+    "type": "주식",
+    "theme": "지수추종_지역특화",
+    "isTDF": false
+  },
+  "196230": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "200250": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "지수추종_지역특화",
+    "isTDF": false
+  },
+  "213610": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "214980": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "226490": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "229200": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "228790": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "228800": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "228810": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "232080": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "237350": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "237370": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "241180": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "지수추종_지역특화",
+    "isTDF": false
+  },
+  "244580": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "바이오헬스케어",
+    "isTDF": false
+  },
+  "245340": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "245710": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "지수추종_지역특화",
+    "isTDF": false
+  },
+  "251600": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "251350": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "지수추종_지역특화",
+    "isTDF": false
+  },
+  "270810": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "272560": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "272580": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "273130": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "273140": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "277630": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "279530": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "278540": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "278530": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "284430": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "283580": {
+    "region": "중국",
+    "type": "주식",
+    "theme": "지수추종_지역특화",
+    "isTDF": false
+  },
+  "292150": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "293180": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "294400": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "295040": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "302190": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "302450": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "305540": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배터리전기차",
+    "isTDF": false
+  },
+  "305720": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배터리전기차",
+    "isTDF": false
+  },
+  "309230": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "307520": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "310960": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "310970": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "314250": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "315930": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "315960": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "325010": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "325020": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "326240": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "329650": {
+    "region": "지역기타",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "329200": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "329750": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "332930": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "357870": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "356540": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "360200": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "360750": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "361580": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "363570": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "364960": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "364970": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "바이오헬스케어",
+    "isTDF": false
+  },
+  "364980": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배터리전기차",
+    "isTDF": false
+  },
+  "365000": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "365780": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "367380": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "367770": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "ESG",
+    "isTDF": false
+  },
+  "368590": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "371460": {
+    "region": "중국",
+    "type": "주식",
+    "theme": "배터리전기차",
+    "isTDF": false
+  },
+  "371160": {
+    "region": "중국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "372330": {
+    "region": "중국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "379780": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "379800": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "379810": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "381170": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "381180": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "385510": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "ESG",
+    "isTDF": false
+  },
+  "385720": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "385540": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "385550": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "385560": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "388420": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "390390": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "394660": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "배터리전기차",
+    "isTDF": false
+  },
+  "394670": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "배터리전기차",
+    "isTDF": false
+  },
+  "395160": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "395270": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "396500": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "396520": {
+    "region": "중국",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "401170": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "401470": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "402970": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "411060": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "금",
+    "isTDF": false
+  },
+  "412770": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "414780": {
+    "region": "중국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "422420": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배터리전기차",
+    "isTDF": false
+  },
+  "423160": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "426030": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "429000": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "433330": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "434730": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "434060": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "435420": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "436140": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "437080": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "ESG",
+    "isTDF": false
+  },
+  "438330": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "439860": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "ESG",
+    "isTDF": false
+  },
+  "439870": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "438080": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "438100": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "438570": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "441540": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "441680": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "441640": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "441800": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "442320": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "444200": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "445290": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "446720": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "446770": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "448600": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "448290": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "448300": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "447770": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "배터리전기차",
+    "isTDF": false
+  },
+  "448330": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "448540": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "449170": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "449180": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "449190": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "449450": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "451000": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "451060": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "451530": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "451540": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "453850": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "452360": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "455030": {
+    "region": "미국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "454780": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "453870": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "지수추종_지역특화",
+    "isTDF": false
+  },
+  "453810": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "지수추종_지역특화",
+    "isTDF": false
+  },
+  "455850": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "455860": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배터리전기차",
+    "isTDF": false
+  },
+  "456880": {
+    "region": "미국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "455890": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "456610": {
+    "region": "미국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "456600": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "457480": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "배터리전기차",
+    "isTDF": false
+  },
+  "458210": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "458250": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "458260": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "459580": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "458730": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "458760": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "461270": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "461490": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "461950": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배터리전기차",
+    "isTDF": false
+  },
+  "462010": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배터리전기차",
+    "isTDF": false
+  },
+  "463250": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "462900": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "바이오헬스케어",
+    "isTDF": false
+  },
+  "463290": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "463050": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "바이오헬스케어",
+    "isTDF": false
+  },
+  "464240": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "464930": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "465580": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "465780": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "466920": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "466950": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "467940": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "466940": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "469070": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "461500": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "469830": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "471230": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "471990": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "472920": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "472160": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "472170": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "472150": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "473290": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "473440": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "472870": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "473330": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "473460": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "474220": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "475080": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "배터리전기차",
+    "isTDF": false
+  },
+  "475050": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "475630": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "476550": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "476450": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "475720": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "476800": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "476810": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "476750": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "476760": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "477050": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "477080": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "479080": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "478150": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "480020": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "480030": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "480260": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "481050": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "479520": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "481060": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "479730": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "소비재",
+    "isTDF": false
+  },
+  "481180": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "481190": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "481430": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "482730": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "483280": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "483290": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "483320": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "484790": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "484880": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "485540": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "486290": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "487230": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "487240": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "487340": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "486450": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "488500": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "488770": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "489030": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "489250": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "490090": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "491010": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "491080": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "490490": {
+    "region": "미국",
+    "type": "기타",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "491610": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "490590": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "491620": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "492500": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "488980": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "489570": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "493810": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "494300": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "494670": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "KR5301AW7864": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "K55223BT0783": {
+    "region": "지역기타",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55223BT0940": {
+    "region": "지역기타",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55223BT1096": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55223BT1278": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55223BT1450": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55223BT1757": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55223BT1922": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55101BT5607": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": false
+  },
+  "K55101BT5797": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": false
+  },
+  "K55101BT7462": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55105BT4671": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55105BT7773": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": false
+  },
+  "K55209BT8958": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55209BT8974": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": false
+  },
+  "K55209BT8982": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": false
+  },
+  "K55236BU4340": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": false
+  },
+  "K55302BU0040": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "K55303BT4226": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "K55101BT4402": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55101BT4428": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55101BT4444": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55101BT7355": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55101BT7397": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55101BT7470": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55105BT4531": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": false
+  },
+  "K55105BT6502": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "K55105BT7674": {
+    "region": "지역기타",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55105BT9910": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55105BT9928": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55105BT9936": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55105BU1062": {
+    "region": "지역기타",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55105BU1146": {
+    "region": "지역기타",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55105BU1161": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55301BT7965": {
+    "region": "지역기타",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55364BU0862": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": false
+  },
+  "K55370BU1789": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55105BU8349": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55301BT3022": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55301BU3037": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55301BU4118": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55303BT4143": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55365BT3694": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": false
+  },
+  "K55370BU1987": {
+    "region": "지역기타",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55364BU0854": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55301BU2922": {
+    "region": "지역기타",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55301BU3391": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55301BU4183": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55223BU8791": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "K55301BU2963": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": false
+  },
+  "K55223BU8650": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "K55301BU2989": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55306BT9487": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "K55207BU0715": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55301BU3003": {
+    "region": "지역기타",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55301BU5479": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55306BT9560": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55101BT7439": {
+    "region": "지역기타",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": false
+  },
+  "K55107BU0245": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55207BU0681": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55213BU7399": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55213BU7688": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55214BU9535": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55232BU4625": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55301BU3011": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55301BU6253": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55370BU1953": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55105BU1096": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "K55105BV0535": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55105BV3687": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55229BU6948": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": false
+  },
+  "K55301BU6113": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55210BU2450": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55105BU5998": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "K55210BU2351": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55210BU2385": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55210BU2419": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55210BU2435": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55107BU0146": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55232BU5747": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55301BU3045": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55301BT2933": {
+    "region": "지역기타",
+    "type": "채권",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55101BT7272": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "ESG",
+    "isTDF": false
+  },
+  "K55216BT3877": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "바이오헬스케어",
+    "isTDF": false
+  },
+  "K55301BT5183": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55223BV4542": {
+    "region": "중국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55301BW0734": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "K55306BT9420": {
+    "region": "중국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55301BV2426": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55301BU2955": {
+    "region": "아시아",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55301BS2942": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55235BW6799": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55235BW6898": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "K55235BW6864": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "K55301BU6139": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55301BX0493": {
+    "region": "중국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55223BU8783": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55301BU5453": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": false
+  },
+  "K55235BW6906": {
+    "region": "지역기타",
+    "type": "채권",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "K55105BU1120": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "K55213BX5796": {
+    "region": "중국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55235BY9478": {
+    "region": "중국",
+    "type": "주식",
+    "theme": "소비재",
+    "isTDF": false
+  },
+  "K55368BU7053": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55102C00314": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "K55102C13390": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55307C28492": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55213C50702": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55213C51890": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55223C89220": {
+    "region": "중국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "K55301CB2759": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": false
+  },
+  "K55364C93745": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55223C80096": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "K55234BX9603": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55101CA2695": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "배터리전기차",
+    "isTDF": false
+  },
+  "K55206C95800": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55206C95636": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55101BV9571": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "ESG",
+    "isTDF": false
+  },
+  "K55207CF0184": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55214CD4825": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55232C84719": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55301CG2739": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55105CH3411": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55234CJ0997": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55105CK1592": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55105CK1808": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55232CJ5295": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55206C22200": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "K55210CO3828": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55223CN7403": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "K55232CI3911": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55232CI4208": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55102CP0659": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55232CI3747": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55209CT1739": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "K55232C99584": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "지수추종_한국",
+    "isTDF": false
+  },
+  "K55303CR9044": {
+    "region": "아시아",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55223CG9861": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55311BW1441": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55101CU1800": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55301CW6508": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "K55310BZ7032": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55210CY1028": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55102C96528": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "K55232D13765": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55210D13340": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55307D06017": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "K55307D05118": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "K55223D29737": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55101D20692": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "배당",
+    "isTDF": false
+  },
+  "K55207D44283": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55105D34223": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55223D45063": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55223D45360": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55306CR0768": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55301D49705": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55301D51370": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55370D73627": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55232D64560": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "ESG",
+    "isTDF": false
+  },
+  "K55205DA7268": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "ESG",
+    "isTDF": false
+  },
+  "K55223DB1045": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55223DD2231": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "K55105DD2150": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "ESG",
+    "isTDF": false
+  },
+  "K55105DD3646": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55310DG8171": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55223DE5803": {
+    "region": "미국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55223DJ3068": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "K55223BV4492": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55105DN1598": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "K55105DN1838": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "K55223DE1125": {
+    "region": "미국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55223DJ7150": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55223DJ7382": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55223DJ7549": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55232DS1045": {
+    "region": "미국",
+    "type": "기타",
+    "theme": "ESG",
+    "isTDF": false
+  },
+  "K55107DT5666": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55232DI0791": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55223DU8344": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "K55105DS5024": {
+    "region": "미국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55101DX4743": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55101DX7852": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55101DX8306": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "연금 특화",
+    "isTDF": true
+  },
+  "K55216DW2708": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55207DZ3837": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55310DZ1355": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K553W5E17435": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55101E12200": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "K55101E12366": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "반도체",
+    "isTDF": false
+  },
+  "K55105E24156": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "K55105E24313": {
+    "region": "지역기타",
+    "type": "주식",
+    "theme": "AI테크",
+    "isTDF": false
+  },
+  "K55210DT4440": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "K553F0E44647": {
+    "region": "한국",
+    "type": "주식",
+    "theme": "테마기타",
+    "isTDF": false
+  },
+  "K55224E52628": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55210E46868": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "K55101DT0903": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55210DT4614": {
+    "region": "미국",
+    "type": "주식",
+    "theme": "지수추종_미국",
+    "isTDF": false
+  },
+  "K55102DR3015": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55223E28174": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55210E32454": {
+    "region": "지역기타",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55214E69177": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55101E95130": {
+    "region": "미국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "K55234E01566": {
+    "region": "한국",
+    "type": "채권",
+    "theme": "미분류 채권",
+    "isTDF": false
+  },
+  "088980": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "088260": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "293940": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "330590": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "334890": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "350520": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "348950": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "357120": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "365550": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "377190": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "395400": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "400760": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "396690": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "404990": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "417310": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "432320": {
+    "region": "지역기타",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "451800": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  },
+  "448730": {
+    "region": "한국",
+    "type": "기타",
+    "theme": "리츠",
+    "isTDF": false
+  }
+}
